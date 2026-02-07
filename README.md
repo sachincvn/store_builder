@@ -1,7 +1,7 @@
-# ShopFlex
+# ShopBuilder
 
 ## 🛒 Project Overview
-**ShopFlex** is a fully dynamic and generic eCommerce platform designed to be completely customizable by administrators.  
+**ShopBuilder** is a fully dynamic and generic eCommerce platform designed to be completely customizable by administrators.  
 Admins can modify everything from **branding and themes** to **products and store configuration**, making it suitable for any business type.
 
 ---
