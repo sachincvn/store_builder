@@ -55,6 +55,3 @@ Admins can modify everything from **branding and themes** to **products and stor
 This project is licensed under the MIT License.
 
 ---
-
-## 👨‍💻 Author
-Developed by **[Your Name]**
